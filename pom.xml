@@ -21,6 +21,7 @@
         <module>spring-cloud-web1</module>
         <module>spring-cloud-web2</module>
         <module>spring-cloud-feign</module>
+        <module>spring-cloud-zipkin-server</module>
     </modules>
 
     <properties>
